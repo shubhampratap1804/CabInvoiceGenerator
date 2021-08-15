@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.test.ServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-15T11:59:18" hostname="DESKTOP-EN6GUKD" time="0.055">
+  <properties/>
+  <testcase name="givenDistanceTimeAndRides_ShouldReturnAllData()" classname="com.test.ServiceTest" time="0.055"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
